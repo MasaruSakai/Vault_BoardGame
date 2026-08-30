@@ -24,6 +24,8 @@ Sources内の画像をもとにした、アーカムホラー 第3版の日本�
 * [公式エラッタ](errata.md) - アークライト公式の訂正一覧とOKFへの反映先。
 * [用語リファレンス](reference-glossary.md) - リファレンスガイドの主要用語とルール番号。
 * [早見表](quick-reference.md) - 神話トークンと遭遇アイコンの即時参照。
+* [公式FAQ・エラッタ整理（日本語）](official-faq-ja.md) - Fantasy Flight Games公式FAQ Update 9/18/20の全項目を日本語で整理。
+* [Official FAQ and Errata Digest (English)](official-faq-en.md) - English digest of the official FAQ Update 9/18/20.
 * [BGGルールフォーラム整理（日本語）](bgg-rules-forum-ja.md) - BoardGameGeekのRulesフォーラム8ページ、781スレッドを対象にした日本語の補足整理。
 * [BGG Rules Forum Digest (English)](bgg-rules-forum-en.md) - English digest of the selected rules discussions.
 * [完全読み起こし](references/full-transcription.md) - 40ページをページ順に整理した全文ノート。

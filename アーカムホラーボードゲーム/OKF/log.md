@@ -8,3 +8,4 @@
 * **Creation**: ページ順の[完全読み起こし](references/full-transcription.md)と[原典ページ対応表](source-page-map.md)を追加。
 * **Update**: アークライト公式エラッタを[公式エラッタ](errata.md)として追加し、内容物、準備、ラウンド、モンスター、探索者、異常現象の関連文書へ反映。
 * **Update**: BoardGameGeekのRulesフォーラム1〜8ページ（計781スレッド）を確認し、ルール関連の主要論点を[日本語ダイジェスト](bgg-rules-forum-ja.md)と[英語ダイジェスト](bgg-rules-forum-en.md)に整理。クルートークンの取引、集中トークン、複数交戦、攻撃、遭遇、モンスター、公式FAQ 492.4訂正を含む。
+* **Update**: Fantasy Flight Games公式[FAQ Update 9/18/20の日本語整理](official-faq-ja.md)と[英語整理](official-faq-en.md)を追加。公式エラッタ、リファレンスガイド更新、FAQ、個別カード・能力の明確化、Tyrants of Ruin訂正版シナリオシートを収録。
