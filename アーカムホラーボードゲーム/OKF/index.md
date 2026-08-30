@@ -21,8 +21,11 @@ Sources内の画像をもとにした、アーカムホラー 第3版の日本�
 
 ## リファレンス
 
+* [公式エラッタ](errata.md) - アークライト公式の訂正一覧とOKFへの反映先。
 * [用語リファレンス](reference-glossary.md) - リファレンスガイドの主要用語とルール番号。
 * [早見表](quick-reference.md) - 神話トークンと遭遇アイコンの即時参照。
+* [BGGルールフォーラム整理（日本語）](bgg-rules-forum-ja.md) - BoardGameGeekのRulesフォーラム8ページ、781スレッドを対象にした日本語の補足整理。
+* [BGG Rules Forum Digest (English)](bgg-rules-forum-en.md) - English digest of the selected rules discussions.
 * [完全読み起こし](references/full-transcription.md) - 40ページをページ順に整理した全文ノート。
 * [原典ページ対応表](source-page-map.md) - OKF文書と原典画像の対応。
 * [原典画像](references/source-pages/index.md) - Sourcesから複製した40枚の画像。
