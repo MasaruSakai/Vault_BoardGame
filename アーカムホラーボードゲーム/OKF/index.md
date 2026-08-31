@@ -30,7 +30,13 @@ Sources内の画像をもとにした、アーカムホラー 第3版の日本�
 * [Official FAQ and Errata Digest (English)](official-faq-en.md) - English digest of the official FAQ Update 9/18/20.
 * [BGG Rules Forum Digest (English)](bgg-rules-forum-en.md) - English digest of the selected rules discussions.
 * [BGG Strategy Forum Digest (English)](bgg-strategy-forum-en.md) - English digest of the Strategy forum discussions.
+
 * [完全読み起こし](references/full-transcription.md) - 40ページをページ順に整理した全文ノート。
 * [原典ページ対応表](source-page-map.md) - OKF文書と原典画像の対応。
 * [原典画像](references/source-pages/index.md) - Sourcesから複製した40枚の画像。
 * [更新履歴](log.md) - このバンドルの変更履歴。
+
+## コミュニティ
+
+* [BGGコミュニティフォーラム整理（日本語）](bgg-community-forums-ja.md) - General、Sessions、Variantsの一般議論、プレイ記録、ハウスルール、ファン制作を整理。公式ルールのリファレンスではない。
+* [BGG Community Forums Digest (English)](bgg-community-forums-en.md) - English digest of the General, Sessions, and Variants forums as community material rather than rules reference.

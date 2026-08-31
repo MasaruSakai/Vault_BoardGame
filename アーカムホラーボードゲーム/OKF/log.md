@@ -10,3 +10,7 @@
 * **Update**: BoardGameGeekのRulesフォーラム1〜8ページ（計781スレッド）を確認し、ルール関連の主要論点を[日本語ダイジェスト](bgg-rules-forum-ja.md)と[英語ダイジェスト](bgg-rules-forum-en.md)に整理。クルートークンの取引、集中トークン、複数交戦、攻撃、遭遇、モンスター、公式FAQ 492.4訂正を含む。
 * **Update**: Fantasy Flight Games公式[FAQ Update 9/18/20の日本語整理](official-faq-ja.md)と[英語整理](official-faq-en.md)を追加。公式エラッタ、リファレンスガイド更新、FAQ、個別カード・能力の明確化、Tyrants of Ruin訂正版シナリオシートを収録。
 * **Update**: BoardGameGeekのStrategyフォーラム30スレッドを確認し、盤面制御、アクション効率、遭遇、探索者編成、取引、戦闘、ソロ・多人数、シナリオ攻略、非公式バリアントを[日本語整理](bgg-strategy-forum-ja.md)と[英語整理](bgg-strategy-forum-en.md)に追加。
+
+## 2026-09-01
+
+* **Update**: BoardGameGeekのGeneral（65）、Sessions（64）、Variants（69）を確認。一般議論・プレイ記録・ハウスルール・ファン制作を、Referenceとは別の[コミュニティ整理（日本語）](bgg-community-forums-ja.md)と[英語整理](bgg-community-forums-en.md)に追加。General 747件、Sessions 13件、Variants 155件の表示件数と、代表スレッドの内容を記録。
