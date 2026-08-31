@@ -25,10 +25,10 @@ Sources内の画像をもとにした、アーカムホラー 第3版の日本�
 * [用語リファレンス](reference-glossary.md) - リファレンスガイドの主要用語とルール番号。
 * [早見表](quick-reference.md) - 神話トークンと遭遇アイコンの即時参照。
 * [公式FAQ・エラッタ整理（日本語）](official-faq-ja.md) - Fantasy Flight Games公式FAQ Update 9/18/20の全項目を日本語で整理。
-* [Official FAQ and Errata Digest (English)](official-faq-en.md) - English digest of the official FAQ Update 9/18/20.
 * [BGGルールフォーラム整理（日本語）](bgg-rules-forum-ja.md) - BoardGameGeekのRulesフォーラム8ページ、781スレッドを対象にした日本語の補足整理。
-* [BGG Rules Forum Digest (English)](bgg-rules-forum-en.md) - English digest of the selected rules discussions.
 * [BGG戦略フォーラム整理（日本語）](bgg-strategy-forum-ja.md) - BoardGameGeekのStrategyフォーラム30スレッドを対象にした日本語の戦略整理。
+* [Official FAQ and Errata Digest (English)](official-faq-en.md) - English digest of the official FAQ Update 9/18/20.
+* [BGG Rules Forum Digest (English)](bgg-rules-forum-en.md) - English digest of the selected rules discussions.
 * [BGG Strategy Forum Digest (English)](bgg-strategy-forum-en.md) - English digest of the Strategy forum discussions.
 * [完全読み起こし](references/full-transcription.md) - 40ページをページ順に整理した全文ノート。
 * [原典ページ対応表](source-page-map.md) - OKF文書と原典画像の対応。
