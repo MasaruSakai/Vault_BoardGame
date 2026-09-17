@@ -4,18 +4,23 @@
 
 ## 収録コンテンツ
 
-- [Clank! Catacombs OKF bundle](ClankCatacomb/OKF/index.md)
+- [Clank! Catacombs LLM Wiki / OKF bundle](ClankCatacombs/Wiki/index.md)
+- [テラフォーミング・マーズ OKF bundle](テラフォーミングマーズ/Wiki/index.md)
+- [アーカムホラー 第3版 LLM Wiki / OKF](アーカムホラーボードゲーム/Wiki/index.md)
 
-`ClankCatacomb/OKF` は [Open Knowledge Format (OKF) v0.2](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) に沿って構成しています。
+`ClankCatacombs/Wiki`、`テラフォーミングマーズ/Wiki`、`アーカムホラーボードゲーム/Wiki` は [Open Knowledge Format (OKF) v0.2](https://github.com/GoogleCloudPlatform/open-knowledge-format/blob/main/SPEC.md) に沿って構成しています。
 
 ## 原典画像について
 
 OKFノートから参照する原典画像は、次の場所にあります。
 
 ```text
-ClankCatacomb/OKF/references/source-pages/rulebook-page-01.jpg
+ClankCatacombs/Sources/rulebook-page-01.jpg
 ...
-ClankCatacomb/OKF/references/source-pages/rulebook-page-18.jpg
+ClankCatacombs/Sources/rulebook-page-18.jpg
+アーカムホラーボードゲーム/Sources/アーカムホラー ボードゲーム - 1.jpg
+...
+アーカムホラーボードゲーム/Sources/アーカムホラー ボードゲーム - 40.jpg
 ```
 
 各OKFノートの `sources` と本文中のリンクから、対応するページを直接開けます。
