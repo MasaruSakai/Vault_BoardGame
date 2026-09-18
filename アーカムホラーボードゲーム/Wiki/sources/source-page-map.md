@@ -8,7 +8,7 @@ generated: { by: agent/codex, at: "2026-08-30T00:00:00+09:00" }
 sources:
   - id: all-source-pages
     resource: /sources/source-pages/
-    title: Sources内の原典画像40枚
+    title: Sources内の原典画像40枚と追加資料画像42〜85
 ---
 
 # 原典ページ対応表
@@ -53,3 +53,14 @@ sources/source-pages/アーカムホラー ボードゲーム - <ページ番号
 ## 公式エラッタ
 
 冊子・シナリオシート・カードの訂正は、[公式エラッタ](../reference/errata.md)にまとめている。原典画像だけでは確認できないカード固有の訂正も含む。
+
+## 探索者・シナリオ・開始時所持品
+
+| 画像 | 内容 | 主なconcept |
+|---:|---|---|
+| 42〜65 | 探索者シート12名（能力値・固有能力・物語・役割・開始時所持品） | [探索者一覧](../rules/investigators.md) |
+| 66〜67 | シナリオ「アザトースの到来」 | [シナリオシート一覧](../rules/scenario-sheets.md) |
+| 68〜69 | シナリオ「ウモルドゥスの饗宴」 | [シナリオシート一覧](../rules/scenario-sheets.md) |
+| 70〜71 | シナリオ「薄明のヴェール」 | [シナリオシート一覧](../rules/scenario-sheets.md) |
+| 72〜73 | シナリオ「深海からの呼び声」 | [シナリオシート一覧](../rules/scenario-sheets.md) |
+| 74〜85 | 開始時所持品カード37枚 | [開始時所持品カード一覧](../reference/starting-item-cards.md) |

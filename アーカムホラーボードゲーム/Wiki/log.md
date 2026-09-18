@@ -1,5 +1,17 @@
 # Wiki更新履歴
 
+## 2026-09-18
+
+* **Source ingest**: Sourcesの画像42〜65を12名の探索者シートとして読み取り、能力値、固有能力、役割、開始時所持品を[探索者一覧](rules/investigators.md)に整理。
+* **Source ingest**: Sourcesの画像66〜73を4枚のシナリオシートとして、開始マス、同時発生効果、登場モンスター、最終調整を[シナリオシート一覧](rules/scenario-sheets.md)に整理。
+* **Source ingest**: Sourcesの画像74〜85を開始時所持品カード37枚として[開始時所持品カード一覧](reference/starting-item-cards.md)に整理。
+* **Provenance**: 画像42〜85への導線を[原典画像42〜85](sources/source-pages-42-85.md)と[原典ページ対応表](sources/source-page-map.md)に追加。Sources本体は変更していない。
+* **Analysis**: [能力値ランキング](rules/investigator-stat-rankings.md)と[状況別探索者ランキング](syntheses/investigator-situational-rankings-ja.md)を追加。BGG Strategyフォーラムの議論を、公式ルールとは分けた戦略的見解として反映。
+* **Analysis**: 能力値ランキングに、呪文・恐怖・シナリオ処理の比較用として「知識＋意志力」の複合指標を追加。主要能力値の総合点は引き続き掲載しない。
+* **Detail**: [探索者一覧](rules/investigators.md)を探索者別詳細に拡張。12名それぞれについて、能力値、固有能力、固定・選択の開始時所持品の効果本文を同じページで確認できるようにした。
+* **Navigation**: [能力値ランキング](rules/investigator-stat-rankings.md)と[状況別探索者ランキング](syntheses/investigator-situational-rankings-ja.md)の全探索者名を、[探索者一覧](rules/investigators.md)の個別詳細へリンク。
+* **Correction**: 《不思議な写真》の誘発条件について、取引によるクルーの受け取りは「得る」ではなく「交換」とする整理に修正。
+
 ## 2026-09-17
 
 * **Restructure**: `アーカムホラーボードゲーム/OKF`を`アーカムホラーボードゲーム/Wiki`へ変更。

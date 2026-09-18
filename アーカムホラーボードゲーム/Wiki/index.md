@@ -13,11 +13,17 @@ okf_version: "0.2"
 * [ゲームの準備](how-to-play/setup.md) - シナリオ選択から初期配置まで。
 * [ラウンドとアクション](how-to-play/rounds-and-actions.md) - プレイ中の基本フローと判定。
 
+## 探索者を選ぶ
+
+* [探索者一覧](rules/investigators.md) - 12名の能力値、固有能力、開始時所持品。
+* [能力値ランキング](rules/investigator-stat-rankings.md) - 能力値を項目別に比較した客観的な順位表。
+* [状況別探索者ランキング](syntheses/investigator-situational-rankings-ja.md) - 固有能力、開始時所持品、BGGの戦略議論を踏まえた実戦上の見解。
+
 ## 分野別索引
 
 * [概要](overview/) - ゲームの目的、舞台、内容物。
 * [遊び方](how-to-play/) - 準備、ラウンド、アクション。
-* [ルール](rules/) - モンスター、遭遇、神話フェイズ、探索者とカード。
+* [ルール](rules/) - モンスター、遭遇、神話フェイズ、探索者とカード。探索者の詳細は[探索者一覧](rules/investigators.md)へ。
 * [リファレンス](reference/) - 公式エラッタ、FAQ、用語、早見表、ルール確認補足。
 * [統合・コミュニティ](syntheses/) - BGGの戦略、一般議論、プレイ記録、ハウスルール、ファン制作。公式ルールではない。
 * [Sourcesと出典](sources/) - 原典画像、読み起こし、対応表、出典台帳。

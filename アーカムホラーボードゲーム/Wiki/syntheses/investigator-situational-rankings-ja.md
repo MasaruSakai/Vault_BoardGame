@@ -1,0 +1,216 @@
+---
+type: synthesis
+title: 状況別探索者ランキング
+description: 固有能力、開始時所持品、人数、シナリオを踏まえた探索者の実戦上の比較。
+tags: [arkham-horror, investigators, strategy, bgg, comparison]
+language: ja
+timestamp: "2026-09-18"
+status: community-supplement
+sources:
+  - id: investigator-sheets-42-65
+    resource: ../rules/investigators.md
+    title: 探索者一覧
+  - id: starting-item-cards-74-85
+    resource: ../reference/starting-item-cards.md
+    title: 開始時所持品カード一覧
+  - id: bgg-strategy-digest-ja
+    resource: bgg-strategy-forum-ja.md
+    title: BGG Strategyフォーラム整理（日本語）
+  - id: bgg-strategy-forum
+    resource: https://boardgamegeek.com/boardgame/257499/arkham-horror-third-edition/forums/67
+    title: BoardGameGeek Strategy forum
+---
+
+# 状況別探索者ランキング
+
+## 重要な前提
+
+以下は公式の強さランキングではなく、探索者シート、開始時所持品、シナリオシート、BGG Strategyフォーラムの議論を統合した戦略上の見解である。BGGの投稿者によって評価は異なり、プレイヤー人数、シナリオ、遭遇カード、ショップの品揃え、カードの選択で順位は変わる。
+
+順位は「その状況で、開始時所持品をその目的に合うよう選んだ場合」の目安。1位が常に最強という意味ではなく、下位でも別の役割を兼任できる探索者は多い。拡張探索者は含めず、Sourcesの画像42〜65にある基本12名を対象とした。
+
+## 先に結論
+
+| 状況 | 1位候補 | 評価の軸 |
+|---|---|---|
+| モンスター処理・戦闘継続 | [マイケル](../rules/investigators.md#michael-mcglenn) | 筋力4、《トンプソン》、撃破時の回復または集中 |
+| 破滅対策・シナリオ処理 | [ノーマン](../rules/investigators.md#norman-withers) | 《ゲート探知》、破滅除去後のシナリオ進行補助、意志力4 |
+| 調査・クルー獲得 | [ウェンディ](../rules/investigators.md#wendy-adams) | 観察力4、移動効率、開始時カードの柔軟性 |
+| 移動・盤面カバー | [ウェンディ](../rules/investigators.md#wendy-adams) | 追加アクション前後の2マス移動 |
+| 支援・防御 | [マリー](../rules/investigators.md#marie-lambeau) | 他の探索者のアクション再現、《介入》 |
+| ソロ・少人数 | [ウェンディ](../rules/investigators.md#wendy-adams) | 自力で調査・移動・生存を完結しやすい |
+| 資金・装備運用 | [ジェニー](../rules/investigators.md#jenny-barnes) | 初期5ドル、《信託資金》、《着飾る》または2丁拳銃 |
+
+## ランキング早見表
+
+1位を最も適性が高いとする。順位は同じ探索者でも状況ごとに変わる。
+
+| 探索者 | 戦闘 | 破滅・シナリオ | 調査 | 移動 | 支援 | ソロ・少人数 | 資源運用 |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| [デクスター・ドレイク](../rules/investigators.md#dexter-drake) | 7 | 3 | 10 | 4 | 7 | 2 | 8 |
+| [マイケル・マクグレン](../rules/investigators.md#michael-mcglenn) | 1 | 10 | 12 | 6 | 10 | 9 | 5 |
+| [ダニエラ・レイエス](../rules/investigators.md#daniela-reyes) | 3 | 8 | 7 | 2 | 9 | 8 | 2 |
+| [アグネス・ベイカー](../rules/investigators.md#agnes-baker) | 5 | 2 | 11 | 12 | 3 | 3 | 6 |
+| [ウェンディ・アダムス](../rules/investigators.md#wendy-adams) | 12 | 7 | 1 | 1 | 6 | 1 | 10 |
+| [マリー・ランボー](../rules/investigators.md#marie-lambeau) | 8 | 4 | 2 | 7 | 1 | 10 | 4 |
+| [ミン・チー・ファン](../rules/investigators.md#minh-chi-phan) | 11 | 5 | 3 | 10 | 5 | 5 | 7 |
+| [カルヴァン・ライト](../rules/investigators.md#calvin-wright) | 4 | 11 | 8 | 11 | 4 | 12 | 12 |
+| [ノーマン・ウィザーズ](../rules/investigators.md#norman-withers) | 10 | 1 | 6 | 5 | 8 | 4 | 9 |
+| [レックス・マーフィー](../rules/investigators.md#rex-murphy) | 9 | 6 | 4 | 9 | 12 | 6 | 3 |
+| [ジェニー・バーンズ](../rules/investigators.md#jenny-barnes) | 6 | 9 | 5 | 8 | 11 | 7 | 1 |
+| [トミー・マルドゥーン](../rules/investigators.md#tommy-muldoon) | 2 | 12 | 9 | 3 | 2 | 11 | 11 |
+
+## 状況ごとの解説
+
+### 1. モンスター処理・戦闘継続
+
+1. **[マイケル](../rules/investigators.md#michael-mcglenn)** — 筋力4、《トンプソン》の筋力+4で開始直後から撃破役になれる。撃破時の正気度回復または集中も、戦闘を続けるほど効く。
+2. **[トミー](../rules/investigators.md#tommy-muldoon)** — 《ベッキー》で筋力を補え、《手錠》は条件を満たす人型モンスターを即時敗北させられる。固有能力で味方の代わりに交戦できるため、処理と護衛を兼ねる。
+3. **[ダニエラ](../rules/investigators.md#daniela-reyes)** — 筋力3、《レンチ》を単独で使えば筋力+3。《ガブリエル》は移動と戦闘地点への到達を助ける。
+4. **[カルヴァン](../rules/investigators.md#calvin-wright)** — 筋力3に《魂の短剣》の筋力+2が乗る。体力・正気度トークンのやり取りで、戦闘役の損耗を調整できる。
+5. **[アグネス](../rules/investigators.md#agnes-baker)** — 《精霊の嵐》で知識判定に置き換えられ、知識4と《血の呪術》の+2を活かせる。ただしダメージ、恐怖、遺物の消費を伴う。
+6. **[ジェニー](../rules/investigators.md#jenny-barnes)** — 筋力3、《ジェニーの2丁拳銃》、資金力が揃う。戦闘専任というより、買い物と戦闘を両立するタイプ。
+7. **[デクスター](../rules/investigators.md#dexter-drake)** — 知識4と呪文で戦えるが、開始時の《ルルイエの霧》は回避用。攻撃を選ぶならカード選択とショップ依存が大きい。
+8. **[マリー](../rules/investigators.md#marie-lambeau)** — 《祖母のナイフ》で最低限の戦闘力を持つが、本領は自分で倒すことより味方のアクションを増やすこと。
+9. **[レックス](../rules/investigators.md#rex-murphy)** — 基本的に6だけが成功となるため、武器を持っても安定した戦闘役にはしにくい。
+10. **[ノーマン](../rules/investigators.md#norman-withers)** — 意志力は高いが、筋力2で開始時カードも戦闘向きではない。
+11. **[ミン](../rules/investigators.md#minh-chi-phan)** — 支援能力を自分の攻撃に使えるものの、素の筋力2で、武器が必要になる。
+12. **[ウェンディ](../rules/investigators.md#wendy-adams)** — 回避と移動で戦闘を避け、追加アクションを別の仕事に使う方が効率的。
+
+### 2. 破滅対策・シナリオ処理
+
+1. **[ノーマン](../rules/investigators.md#norman-withers)** — 《ゲート探知》で破滅のあるマスへ到達しやすく、《星々の中に》が破滅除去後のクルー運用をシナリオ進行につなげる。意志力4も安定材料。
+2. **[アグネス](../rules/investigators.md#agnes-baker)** — 知識4、呪文、遺物との相互作用があり、呪文を軸にしたシナリオ処理に強い。代償の管理が必要。
+3. **[デクスター](../rules/investigators.md#dexter-drake)** — 知識4に判定の振り直しがあり、呪文の集中上限も高めやすい。《アストラル投射》を選べば目的地への到達も補える。
+4. **[マリー](../rules/investigators.md#marie-lambeau)** — 《介入》で遠隔の判定を支え、《魔女の血統》でアクションを再利用できる。単独の処理速度よりチーム全体の効率が高い。
+5. **[ミン](../rules/investigators.md#minh-chi-phan)** — 同じ区域のクルーが多いほど「仲間」の振り直しが強くなり、調査とシナリオ用判定を安定させる。
+6. **[レックス](../rules/investigators.md#rex-murphy)** — 《塔》と失敗後の集中で試行回数を確保でき、《真実の探求》はクルーをシナリオ資源へ変換できる。ただし6のみ成功の制約がある。
+7. **[ウェンディ](../rules/investigators.md#wendy-adams)** — 直接の破滅対策カードは薄いが、移動効率で目的地へ先回りできる。
+8. **[ダニエラ](../rules/investigators.md#daniela-reyes)** — 収入後の集中と《ガブリエル》で準備と移動を両立するが、破滅処理の専門能力はない。
+9. **[ジェニー](../rules/investigators.md#jenny-barnes)** — 資金で装備を補える一方、素の知識1がこの役割の足かせになる。
+10. **[マイケル](../rules/investigators.md#michael-mcglenn)** — モンスターを処理して盤面を空けられるが、破滅処理の直接的な補助は少ない。
+11. **[カルヴァン](../rules/investigators.md#calvin-wright)** — 味方の損耗を調整できるが、知識判定の専門性は低い。
+12. **[トミー](../rules/investigators.md#tommy-muldoon)** — 護衛には強いが、破滅を処理するための移動・判定カードが少ない。
+
+### 3. 調査・クルー獲得
+
+1. **[ウェンディ](../rules/investigators.md#wendy-adams)** — 観察力4に加え、移動のフリー効果で調査地点を渡り歩ける。《不思議な写真》を選ぶと、正しく「得た」クルーを集中へつなげられる。
+2. **[マリー](../rules/investigators.md#marie-lambeau)** — 影響力4、《介入》、アクションを他の探索者に再現させる固有能力が、遭遇と調査の両方で有効。
+3. **[ミン](../rules/investigators.md#minh-chi-phan)** — 観察力3に《分析的な頭脳》または《共働》を組み合わせ、「仲間」で同じ区域のクルーを判定の安定性へ変換できる。
+4. **[レックス](../rules/investigators.md#rex-murphy)** — 《真実の探求》でクルーをドルと集中へ変換し、《一気に解き明かす》なら調査ダイスを底上げできる。ただし出目6制限は残る。
+5. **[ジェニー](../rules/investigators.md#jenny-barnes)** — 影響力4と資金5で遭遇・買い物を担当しやすい。《着飾る》なら集中1個で複数振り直しができる。
+6. **[ノーマン](../rules/investigators.md#norman-withers)** — 観察力3に《貴重な記念品》または《天文学の本》を組み合わせられる。破滅のある場所では別役割を優先することも多い。
+7. **[ダニエラ](../rules/investigators.md#daniela-reyes)** — 影響力3と「仕事好き」の集中で、収入を無駄にしにくい。
+8. **[カルヴァン](../rules/investigators.md#calvin-wright)** — 観察力3だが、固有能力と開始時カードは調査より味方の損耗管理向き。
+9. **[トミー](../rules/investigators.md#tommy-muldoon)** — 観察力3で最低限こなせるが、開始時カードと固有能力の主目的は護衛。
+10. **[デクスター](../rules/investigators.md#dexter-drake)** — 知識4は調査カード次第で活きるが、観察力2のため通常の調査専門役ではない。
+11. **[アグネス](../rules/investigators.md#agnes-baker)** — 知識4は高いが、開始時カードは呪文と戦闘・防御寄り。
+12. **[マイケル](../rules/investigators.md#michael-mcglenn)** — 影響力3でも観察力1で、調査担当にすると戦闘力を活かしにくい。
+
+### 4. 移動・盤面カバー
+
+1. **[ウェンディ](../rules/investigators.md#wendy-adams)** — 追加アクションの前後に2マス移動できる。調査、遭遇、回避、救援を1ラウンド内でつなぎやすい。
+2. **[ダニエラ](../rules/investigators.md#daniela-reyes)** — 《ガブリエル》で通常移動の代わりに3マス、ドルで4マス移動できる。収入後の集中も次の判定準備になる。
+3. **[トミー](../rules/investigators.md#tommy-muldoon)** — 《バイク》で3〜4マス移動し、固有能力で到着先の味方を守れる。
+4. **[デクスター](../rules/investigators.md#dexter-drake)** — 《アストラル投射》なら知識判定の成功数+2マス。《ルルイエの霧》を回避用に残す選択もある。
+5. **[ノーマン](../rules/investigators.md#norman-withers)** — 《ゲート探知》は破滅のあるマスへ直接移動する選択肢になる。
+6. **[マイケル](../rules/investigators.md#michael-mcglenn)** — 《蒸気自動車》を選べば移動後に交戦中のモンスターへダメージを与えられる。
+7. **[マリー](../rules/investigators.md#marie-lambeau)** — 自分のアクションを味方に再現させることで、実質的にチームの移動回数を増やせる。
+8. **[ジェニー](../rules/investigators.md#jenny-barnes)** — 資金で乗り物や装備を導入しやすいが、初期カードだけでは移動の専門家ではない。
+9. **[レックス](../rules/investigators.md#rex-murphy)** — 直接の移動補助は少なく、失敗時の集中を次の判定へ回すタイプ。
+10. **[ミン](../rules/investigators.md#minh-chi-phan)** — 《共働》の同マス支援は強いが、別地点を単独で巡回する能力ではない。
+11. **[カルヴァン](../rules/investigators.md#calvin-wright)** — 移動手段より体力・正気度の受け渡しに価値がある。
+12. **[アグネス](../rules/investigators.md#agnes-baker)** — 移動そのものを補う開始時カードが少なく、目的地への到達は味方に依存しやすい。
+
+### 5. 支援・防御
+
+1. **[マリー](../rules/investigators.md#marie-lambeau)** — 《介入》で他の探索者の判定を遠隔支援でき、固有能力でアクションまで共有できる。人数が増えるほど価値が上がる。
+2. **[トミー](../rules/investigators.md#tommy-muldoon)** — 味方が交戦するとき自分が代わりに交戦できる。敵を引き受ける護衛役として明確。
+3. **[アグネス](../rules/investigators.md#agnes-baker)** — 《肉体の護り》でダメージを防ぎ、自分は恐怖をダメージへ置き換えられる。ダメージ耐性との相談が必要。
+4. **[カルヴァン](../rules/investigators.md#calvin-wright)** — 味方と体力・正気度を任意にやり取りでき、瀕死の味方を立て直すのが得意。
+5. **[ミン](../rules/investigators.md#minh-chi-phan)** — 同じマスの判定をクルー数に応じて振り直せ、《共働》なら同マスのスキルまで補助する。
+6. **[ウェンディ](../rules/investigators.md#wendy-adams)** — 《パパ・ターソンさん》で攻撃前に複数の交戦を解き、《ママの護符》で被害を1点防げる。
+7. **[デクスター](../rules/investigators.md#dexter-drake)** — 《ルルイエの霧》による回避と呪文で自身の被害を抑えられるが、直接支援は限定的。
+8. **[ノーマン](../rules/investigators.md#norman-withers)** — 高い意志力と《天文学の本》で危険な判定を担当できるが、味方への直接防御は薄い。
+9. **[ダニエラ](../rules/investigators.md#daniela-reyes)** — 収入と集中の安定性はチームに貢献するが、味方を直接守る効果は少ない。
+10. **[マイケル](../rules/investigators.md#michael-mcglenn)** — 撃破時の正気度回復は本人向けで、味方への支援能力ではない。
+11. **[ジェニー](../rules/investigators.md#jenny-barnes)** — 資金を装備や遭遇に回せるが、開始時能力は個人完結型。
+12. **[レックス](../rules/investigators.md#rex-murphy)** — クルー・ドル・集中を得る能力は強いが、味方の被害を直接軽減する効果は少ない。
+
+### 6. ソロ・少人数
+
+1. **[ウェンディ](../rules/investigators.md#wendy-adams)** — 調査、移動、回避、生存の4つを一人でつなげやすい。モンスターを倒すより避ける設計が、ソロのアクション不足と噛み合う。
+2. **[デクスター](../rules/investigators.md#dexter-drake)** — 知識4、判定の振り直し、呪文、移動カードで自力完結しやすい。開始時のカード選択が重要。
+3. **[アグネス](../rules/investigators.md#agnes-baker)** — 呪文と知識4で戦闘・破滅処理・防御を兼ねる。代償のダメージ／恐怖管理が必要。
+4. **[ノーマン](../rules/investigators.md#norman-withers)** — 破滅へのアクセス、意志力4、カードの振り直しで難所に対応できる。影響力1は弱点。
+5. **[ミン](../rules/investigators.md#minh-chi-phan)** — 自分にも「仲間」を使え、観察力3と《分析的な頭脳》で安定する。盤面にクルーが少ないと伸びにくい。
+6. **[レックス](../rules/investigators.md#rex-murphy)** — 《真実の探求》と《塔》で資源を自給できるが、6のみ成功の制約がソロでは重い。
+7. **[ジェニー](../rules/investigators.md#jenny-barnes)** — 資金で必要な穴を埋められる。初期装備を目的に合わせて選べる点も強み。
+8. **[ダニエラ](../rules/investigators.md#daniela-reyes)** — 移動と戦闘の最低線を持ち、収入で準備できる。ただし調査の専門性は低い。
+9. **[マイケル](../rules/investigators.md#michael-mcglenn)** — 戦闘は非常に強いが、観察力1と正気度4がソロで露呈しやすい。
+10. **[マリー](../rules/investigators.md#marie-lambeau)** — 2人以上なら強い固有能力が、ソロでは「他の探索者」を対象にできない。
+11. **[トミー](../rules/investigators.md#tommy-muldoon)** — 護衛能力の対象がいないため、ソロでは開始時カード以外の強みが縮む。
+12. **[カルヴァン](../rules/investigators.md#calvin-wright)** — 体力・正気度の交換相手がいないと固有能力を活かしにくく、意志力1も重い。
+
+### 7. 資金・装備運用
+
+1. **[ジェニー](../rules/investigators.md#jenny-barnes)** — 初期5ドルに《信託資金》があり、《着飾る》なら信託資金を増幅できる。2丁拳銃を選べば資金力がそのまま戦闘力にもなる。
+2. **[ダニエラ](../rules/investigators.md#daniela-reyes)** — 収入後に集中を得るため、収入アクションの機会費用が小さい。《ガブリエル》と相性がよい。
+3. **[レックス](../rules/investigators.md#rex-murphy)** — クルーを得るだけでドルと集中に変換でき、《確率を打ち負かす》なら集中をさらに伸ばせる。
+4. **[マリー](../rules/investigators.md#marie-lambeau)** — 初期4ドルと《介入》があり、味方の判定へ資源を移す運用ができる。
+5. **[マイケル](../rules/investigators.md#michael-mcglenn)** — 初期3ドルと《トンプソン》が即戦力。ショップで戦闘カードを探す必要が比較的少ない。
+6. **[アグネス](../rules/investigators.md#agnes-baker)** — 初期3ドル、《ハイパーボリアの秘宝》、呪文の連鎖で集中を補える。
+7. **[ミン](../rules/investigators.md#minh-chi-phan)** — 初期3ドルに加え、《分析的な頭脳》と《共働》のどちらを選ぶかで役割を変えられる。
+8. **[デクスター](../rules/investigators.md#dexter-drake)** — 初期2ドルだが、呪文を集めるほど集中上限が増える。カード供給が前提。
+9. **[ノーマン](../rules/investigators.md#norman-withers)** — 初期1ドルで開始するため、強いカードはあるが買い物の余裕がない。
+10. **[ウェンディ](../rules/investigators.md#wendy-adams)** — 初期1ドル。防御カードは有用だが、ショップを利用する資金力は低い。
+11. **[トミー](../rules/investigators.md#tommy-muldoon)** — 初期2ドルと強い《ベッキー》があるが、追加装備を買う役割ではない。
+12. **[カルヴァン](../rules/investigators.md#calvin-wright)** — 初期3ドルと複数のカードを持つ一方、《闇との盟約》の負担があり、資源を単純な強化に回しにくい。
+
+## 探索者ごとの見解
+
+| 探索者 | 向いている状況 | 固有能力・開始時所持品を含めた評価 | 注意点 |
+|---|---|---|---|
+| [デクスター](../rules/investigators.md#dexter-drake) | 破滅対策、ソロ、移動 | 知識4、振り直し、呪文、移動カードで難しい判定を自力で処理しやすい | 戦闘と調査を同時に任せるとカード枠が分散する |
+| [マイケル](../rules/investigators.md#michael-mcglenn) | 戦闘、モンスター密度が高い場面 | 素の筋力4と《トンプソン》で即戦力。撃破後の回復で継戦能力も高い | 観察力1、正気度4。調査や恐怖の連続には弱い |
+| [ダニエラ](../rules/investigators.md#daniela-reyes) | 移動、戦闘、資金運用 | 《ガブリエル》と「仕事好き」で、収入・移動・戦闘を一つの流れにしやすい | 専門的な調査・破滅処理は別の探索者が欲しい |
+| [アグネス](../rules/investigators.md#agnes-baker) | 破滅対策、呪文戦闘、支援 | 知識4、《血の呪術》、《肉体の護り》で多機能 | ダメージと恐怖の交換を誤ると自壊しやすい |
+| [ウェンディ](../rules/investigators.md#wendy-adams) | 調査、移動、ソロ、回避中心 | 観察力4とフリー移動でアクション効率が高く、戦闘を避ける戦略に合う | 素の戦闘力は低く、味方に敵処理を任せたい |
+| [マリー](../rules/investigators.md#marie-lambeau) | 調査、支援、多人数 | 影響力4、《介入》、アクション共有でチーム全体の成功数を底上げ | ソロでは固有能力が使えず、本人の戦闘力も高くない |
+| [ミン](../rules/investigators.md#minh-chi-phan) | 調査、同マス支援、少人数 | クルーの多い区域で振り直しが強く、《共働》なら同マスの味方も強化 | 盤面が分散すると「仲間」の効率が落ちる |
+| [カルヴァン](../rules/investigators.md#calvin-wright) | 味方の救命、戦闘補助 | 体力・正気度の移し替えで、味方の敗北を遅らせる独自の役割 | 意志力1、交換相手が必要。単独では評価が下がる |
+| [ノーマン](../rules/investigators.md#norman-withers) | 破滅対策、シナリオ処理、ソロ | 《ゲート探知》、意志力4、《天文学の本》で危険地点を担当できる | 影響力1、体力5で長期の交渉・被弾には不向き |
+| [レックス](../rules/investigators.md#rex-murphy) | 調査、資源変換、長期戦 | クルーをドルと集中へ変換し、失敗後も集中を得る | 6のみ成功の制約で、試行回数を確保できない場面は苦しい |
+| [ジェニー](../rules/investigators.md#jenny-barnes) | 資金運用、調査、兼任戦闘 | 初期資金、信託資金、振り直し、2丁拳銃の選択で穴を埋める | 知識1、観察力2で、調査や呪文判定を専門にしにくい |
+| [トミー](../rules/investigators.md#tommy-muldoon) | 戦闘、護衛、移動 | 《ベッキー》と《手錠》で敵を処理し、固有能力で味方の代わりに交戦できる | 味方が少ないほど護衛能力の価値が下がる |
+
+## シナリオ別の優先候補
+
+シナリオの具体的な勝利条件や同時発生効果は、[シナリオシート一覧](../rules/scenario-sheets.md)を優先する。ここでは、基本12名から選ぶときの優先候補だけを示す。
+
+* **《アザトースの接近》** — [ノーマン](../rules/investigators.md#norman-withers)、[アグネス](../rules/investigators.md#agnes-baker)、[デクスター](../rules/investigators.md#dexter-drake)を優先。破滅へのアクセスと除去、知識判定、危険地点の処理を重視する。[マイケル](../rules/investigators.md#michael-mcglenn)または[トミー](../rules/investigators.md#tommy-muldoon)を加えるとモンスター処理の遅れを補える。
+* **《黄昏の帳》** — [ウェンディ](../rules/investigators.md#wendy-adams)、[ダニエラ](../rules/investigators.md#daniela-reyes)、[トミー](../rules/investigators.md#tommy-muldoon)、[デクスター](../rules/investigators.md#dexter-drake)を優先。移動距離と、複数地点への対応力を重視する。[マリー](../rules/investigators.md#marie-lambeau)を加えると重要アクションを共有しやすい。
+* **《死者の叫び》** — [ウェンディ](../rules/investigators.md#wendy-adams)、[マリー](../rules/investigators.md#marie-lambeau)、[ミン](../rules/investigators.md#minh-chi-phan)、[カルヴァン](../rules/investigators.md#calvin-wright)、[トミー](../rules/investigators.md#tommy-muldoon)を優先。救援、取引、同マス支援、護衛を重視する。敵を放置しすぎないよう[マイケル](../rules/investigators.md#michael-mcglenn)や[ダニエラ](../rules/investigators.md#daniela-reyes)を加える構成も安定する。
+
+## BGGの議論をどう反映したか
+
+BGG Strategyフォーラム全体の議論から、次の傾向をランキングの評価軸に採用した。
+
+* 探索者を固定の「役割名」だけで選ばず、シナリオ、盤面、開始時所持品、ショップ、人数で選ぶ。
+* 破滅を除去する役、モンスターを処理する役、調査する役、移動・支援する役を最低限そろえ、1人が複数の役を兼任できると少人数で強い。
+* 行動回数、移動、取引、他の探索者の行動を増やす効果は、単一の能力値よりチーム全体の効率に影響しやすい。
+* モンスターをすべて倒す必要はなく、回避、消耗、別の探索者への交戦引き受けを含めて、目的達成までの行動数で判断する。
+* 取引は同じマスの探索者同士の行動をつなぐため、戦闘カードを戦闘役へ、呪文を知識役へ、移動・追加行動を目的地へ向かう探索者へ渡す価値が高い。
+
+これは[BGG戦略フォーラム整理（日本語）](bgg-strategy-forum-ja.md)にまとめた30スレッド、特に次の議論をもとにした整理である。
+
+* [Official investigators rated and eventually ranked (my opinion)](https://boardgamegeek.com/thread/3706509/official-investigators-rated-and-eventually-ranked) — 探索者の評価・順位づけそのものを扱う議論。
+* [Dealing with monsters?](https://boardgamegeek.com/thread/3679469/dealing-with-monsters) — モンスターを倒す、避ける、遅延させる判断。
+* [Are Unusual Team Compositions Viable?](https://boardgamegeek.com/thread/3455621/are-unusual-team-compositions-viable) — 固定役割に依存しない編成と、行動経済・装備の考え方。
+* [What Have We Learned So Far?](https://boardgamegeek.com/thread/2235371/what-have-we-learned-so-far) — 盤面制御、遭遇、チーム構成、シナリオ別の一般戦略。
+* [No brainer starting cards?](https://boardgamegeek.com/thread/2126440/no-brainer-starting-cards) — 開始時所持品の評価。
+* [Turn 1 Trades](https://boardgamegeek.com/thread/2094650/turn-1-trades) — 開始時の取引と、装備を担当者へ集める考え方。
+
+## 限界と更新方針
+
+このページの順位は、公式FAQやエラッタの裁定ではない。新しい探索者、拡張、ショップカード、BGGでの反証が加わった場合は、順位を黙って上書きせず、前提と出典を追記して更新する。ルール上の疑問は[リファレンス](../reference/)と[Sources](../sources/)を優先する。

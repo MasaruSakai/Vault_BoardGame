@@ -3,7 +3,8 @@
 `Sources/`にある原典と、`Wiki/`の知識ページを対応付ける分野。原典画像はここから開き、要約ページの根拠を確認できる。
 
 * [出典台帳](source-register.md) - Sourcesの役割、優先順位、Wikiでの利用範囲。
-* [原典ページ対応表](source-page-map.md) - 原典40ページと概念ノートの対応。
+* [原典ページ対応表](source-page-map.md) - 原典40ページと追加画像42〜85の概念ノート対応。
+* [原典画像42〜85](source-pages-42-85.md) - 探索者シート、シナリオシート、開始時所持品カード。
 * [完全読み起こし](full-transcription.md) - 原典ページ順の読み起こし。
 * [原典画像一覧](source-pages/index.md) - Sourcesから複製した40枚の画像。
 
