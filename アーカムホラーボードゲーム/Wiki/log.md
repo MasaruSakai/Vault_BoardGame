@@ -9,7 +9,8 @@
 * **Analysis**: [能力値ランキング](rules/investigator-stat-rankings.md)と[状況別探索者ランキング](syntheses/investigator-situational-rankings-ja.md)を追加。BGG Strategyフォーラムの議論を、公式ルールとは分けた戦略的見解として反映。
 * **Analysis**: 能力値ランキングに、呪文・恐怖・シナリオ処理の比較用として「知識＋意志力」の複合指標を追加。主要能力値の総合点は引き続き掲載しない。
 * **Detail**: [探索者一覧](rules/investigators.md)を探索者別詳細に拡張。12名それぞれについて、能力値、固有能力、固定・選択の開始時所持品の効果本文を同じページで確認できるようにした。
-* **Navigation**: [能力値ランキング](rules/investigator-stat-rankings.md)と[状況別探索者ランキング](syntheses/investigator-situational-rankings-ja.md)の全探索者名を、[探索者一覧](rules/investigators.md)の個別詳細へリンク。
+* **Navigation**: [能力値ランキング](rules/investigator-stat-rankings.md)と[状況別探索者ランキング](syntheses/investigator-situational-rankings-ja.md)の全探索者名を、[探索者一覧](rules/investigators.md)のMarkdown見出しへリンク。HTMLの`a`/`id`アンカーは使用しない。
+* **Navigation**: ルート[index](index.md)から[シナリオシート一覧](rules/scenario-sheets.md)へ直接移動できるリンクを追加。
 * **Correction**: 《不思議な写真》の誘発条件について、取引によるクルーの受け取りは「得る」ではなく「交換」とする整理に修正。
 
 ## 2026-09-17

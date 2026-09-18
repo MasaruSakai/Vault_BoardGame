@@ -12,6 +12,7 @@ okf_version: "0.2"
 * [ゲーム概要](overview/game-overview.md) - 目的、人数、ラウンド全体。
 * [ゲームの準備](how-to-play/setup.md) - シナリオ選択から初期配置まで。
 * [ラウンドとアクション](how-to-play/rounds-and-actions.md) - プレイ中の基本フローと判定。
+* [シナリオシート一覧](rules/scenario-sheets.md) - 基本シナリオ4枚の開始マス、同時発生効果、登場モンスター、最終調整。
 
 ## 探索者を選ぶ
 
