@@ -184,13 +184,6 @@ sources:
 | [ジェニー](../rules/investigators.md#ジェニー・バーンズ) | 資金運用、調査、兼任戦闘 | 初期資金、信託資金、振り直し、2丁拳銃の選択で穴を埋める | 知識1、観察力2で、調査や呪文判定を専門にしにくい |
 | [トミー](../rules/investigators.md#トミー・マルドゥーン) | 戦闘、護衛、移動 | 《ベッキー》と《手錠》で敵を処理し、固有能力で味方の代わりに交戦できる | 味方が少ないほど護衛能力の価値が下がる |
 
-## シナリオ別の優先候補
-
-シナリオの具体的な勝利条件や同時発生効果は、[シナリオシート一覧](../rules/scenario-sheets.md)を優先する。ここでは、基本12名から選ぶときの優先候補だけを示す。
-
-* **《アザトースの接近》** — [ノーマン](../rules/investigators.md#ノーマン・ウィザーズ)、[アグネス](../rules/investigators.md#アグネス・ベイカー)、[デクスター](../rules/investigators.md#デクスター・ドレイク)を優先。破滅へのアクセスと除去、知識判定、危険地点の処理を重視する。[マイケル](../rules/investigators.md#マイケル・マクグレン)または[トミー](../rules/investigators.md#トミー・マルドゥーン)を加えるとモンスター処理の遅れを補える。
-* **《黄昏の帳》** — [ウェンディ](../rules/investigators.md#ウェンディ・アダムス)、[ダニエラ](../rules/investigators.md#ダニエラ・レイエス)、[トミー](../rules/investigators.md#トミー・マルドゥーン)、[デクスター](../rules/investigators.md#デクスター・ドレイク)を優先。移動距離と、複数地点への対応力を重視する。[マリー](../rules/investigators.md#マリー・ランボー)を加えると重要アクションを共有しやすい。
-* **《死者の叫び》** — [ウェンディ](../rules/investigators.md#ウェンディ・アダムス)、[マリー](../rules/investigators.md#マリー・ランボー)、[ミン](../rules/investigators.md#ミン・チー・ファン)、[カルヴァン](../rules/investigators.md#カルヴァン・ライト)、[トミー](../rules/investigators.md#トミー・マルドゥーン)を優先。救援、取引、同マス支援、護衛を重視する。敵を放置しすぎないよう[マイケル](../rules/investigators.md#マイケル・マクグレン)や[ダニエラ](../rules/investigators.md#ダニエラ・レイエス)を加える構成も安定する。
 
 ## BGGの議論をどう反映したか
 
